@@ -6,7 +6,8 @@ from service import app
 from service.common import status
 
 COUNTER = {}
-#Testomg 
+
+
 ############################################################
 # Health Endpoint
 ############################################################
